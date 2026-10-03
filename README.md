@@ -9,14 +9,14 @@ The MAFI 2026 brand plugins for Claude. They work in Claude on the web, the desk
 
 ## Install in Claude (web or desktop app)
 1. Go to **Customize → Plugins → Add → Add marketplace**.
-2. Paste this repository's link and confirm.
+2. Paste `https://github.com/the0genius/mafi-2026-plugins` and confirm.
 3. Click **Install** on **MAFI 2026**, then on **MAFI 2026 – IQF Photos**.
 
 The plugins follow your Claude account into chat, Cowork, mobile and Claude Code. You need a paid Claude plan.
 
 ## Install in Claude Code
 ```
-/plugin marketplace add OWNER/REPO
+/plugin marketplace add the0genius/mafi-2026-plugins
 /plugin install mafi-2026@mafi
 /plugin install mafi-2026-iqf-photos@mafi
 ```
