@@ -1,0 +1,11 @@
+{
+  "name": "mafi-2026-iqf-photos",
+  "displayName": "MAFI 2026 – IQF Photos",
+  "version": "1.0.0",
+  "description": "Companion to the MAFI 2026 plugin: the 12 IQF (Frozen Fruits & Vegetables) top-view product photos in full 4K resolution, transparent PNG. Kept in a separate plugin because of the 200 MB per-plugin limit.",
+  "author": {
+    "name": "MAFI Marketing & Communications"
+  },
+  "homepage": "https://www.mafi-egypt.com",
+  "keywords": ["mafi", "product-photos", "iqf"]
+}

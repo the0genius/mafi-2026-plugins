@@ -1,0 +1,131 @@
+{
+  "_note": "Starting points, not a component spec. The core (logo, core colours, family colours, Alverata + Avenir Next, leaf & sprout) is fixed; everything else is a default you may adapt.",
+  "color": {
+    "role": {
+      "background": "#FFFFFF",
+      "primary": "#009C49",
+      "secondary": "#045976",
+      "accent": "#000000",
+      "_usage": "White background; green leads (headlines, leaf, highlights, buttons, floods); blue supports (subheads, info, data); black for body text, specs and detail."
+    },
+    "core": {
+      "green": "#009C49",
+      "blue": "#045976",
+      "black": "#000000",
+      "white": "#FFFFFF",
+      "_note": "The whole brand palette. No turquoise, silver or paper tones; use tints/shades of these four."
+    },
+    "gradient": {
+      "brand": "linear-gradient(90deg, #009C49 0%, #045976 100%)",
+      "brand-vertical": "linear-gradient(180deg, #009C49 0%, #045976 100%)",
+      "green-flood": "radial-gradient(120% 90% at 50% 20%, #0C6C3C 0%, #0C3C24 55%, #071A12 100%)"
+    },
+    "family": {
+      "_note": "Product-family tags only, not brand colours. Never on logo, corporate headlines, buttons or backgrounds.",
+      "citrus": {
+        "title": "#F3BC5A",
+        "tint": "#F4D089"
+      },
+      "tomato-multi-fruits": {
+        "title": "#F37F64",
+        "tint": "#F7A692"
+      },
+      "iqf": {
+        "title": "#58B36A",
+        "tint": "#BCE0C3"
+      },
+      "freeze-dry": {
+        "title": "#D62B2B",
+        "tint": "#EFB4B4"
+      }
+    },
+    "flood": {
+      "emerald": "#009C49",
+      "deep": "#0C6C3C",
+      "forest": "#0C3C24",
+      "night": "#071A12"
+    },
+    "tint": {
+      "green-10": "#E6F5ED",
+      "blue-10": "#E6EEF1",
+      "rule": "#E0E0E0",
+      "_usage": "tints of the core colours, for soft panels and hairlines on the white background only"
+    },
+    "text": {
+      "heading": "#009C49",
+      "heading-alt": "#045976",
+      "subhead": "#045976",
+      "body": "#000000",
+      "muted": "#595959",
+      "on-dark": "#FFFFFF"
+    },
+    "action": {
+      "default": "#009C49",
+      "hover": "#00863F",
+      "pressed": "#007235"
+    }
+  },
+  "font": {
+    "display": {
+      "brand": "Alverata",
+      "fallback": "Faustina, Georgia, serif",
+      "weights": "700 signature; 300-400 for quiet lines",
+      "tracking": "-0.01em to -0.02em"
+    },
+    "text": {
+      "brand": "Avenir Next",
+      "fallback": "Nunito Sans, Avenir, system-ui, sans-serif",
+      "weights": "200 UltraLight to 900 Heavy, with italics"
+    },
+    "arabic": {
+      "brand": "GE SS Two",
+      "fallback": "Noto Kufi Arabic, Cairo, sans-serif"
+    },
+    "script": {
+      "brand": "casual monoline handwriting (callouts only)",
+      "fallback": "Caveat, cursive"
+    },
+    "label": {
+      "case": "uppercase",
+      "tracking": "0.06em to 0.10em",
+      "weight": "700-800"
+    }
+  },
+  "scale_hint": {
+    "print_headline_pt": "30-100",
+    "print_subhead_pt": "12-22",
+    "print_body_pt": "9.5-12",
+    "screen": {
+      "display": "56-96px",
+      "h1": "40-56px",
+      "h2": "28-36px",
+      "body": "16-18px",
+      "caption": "12-13px"
+    }
+  },
+  "radius": {
+    "sm": "6px",
+    "md": "10px",
+    "lg": "14px",
+    "xl": "24px",
+    "pill": "999px"
+  },
+  "shadow": {
+    "card": "0 6px 18px rgba(4,89,118,0.09)",
+    "lift": "0 14px 38px rgba(4,89,118,0.11)",
+    "product": "0 24px 44px -18px rgba(26,29,30,0.28)"
+  },
+  "scrim": {
+    "bottom": "linear-gradient(180deg, rgba(0,0,0,0) 40%, rgba(0,0,0,0.5) 100%)",
+    "green": "linear-gradient(180deg, rgba(7,26,18,0) 30%, rgba(7,26,18,0.8) 100%)"
+  },
+  "space": {
+    "base": "4px (use multiples: 4, 8, 12, 16, 24, 32, 48, 64, 96, 128)",
+    "grid": "even columns: 12 or 6"
+  },
+  "motion": {
+    "ease": "cubic-bezier(0.22,0.61,0.36,1)",
+    "duration": "200-600ms",
+    "style": "fades and short upward reveals; no bounce"
+  }
+}

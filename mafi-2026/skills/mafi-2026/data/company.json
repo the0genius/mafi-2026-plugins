@@ -1,0 +1,152 @@
+{
+  "name": "MAFI for Agricultural Produce Industries",
+  "short_name": "MAFI",
+  "arabic_name": "لتصنيع الحاصلات الزراعية",
+  "tagline": "Pioneering the Future of Food Innovation",
+  "signature": "MAFI… Pioneering the Future of Food Innovation",
+  "brand_essence": "Guiding the Future of Agri-Food with Knowledge and Innovation.",
+  "corporate_line": "Driving Sustainability with Purpose, Leading Innovation with Heart.",
+  "ownership": "Joint Egyptian–Emirati venture",
+  "chairman": "Ahmed Abou Hashima",
+  "status": "Private Free Zone company; Golden License",
+  "model": "B2B agri-food ingredients; 100% export-oriented; private label and retail packing",
+  "site": {
+    "location": "El-Sewedy Industrial Park, Industria Sadat City, Menoufia, Egypt",
+    "land_area_m2": 157000,
+    "fence_km": 1.8,
+    "main_building_m2": 55000,
+    "admin_building_bua_m2": 4000,
+    "future_expansion_m2": [
+      31200,
+      3000
+    ],
+    "construction": {
+      "start": "2025-02-01",
+      "complete": "2026-09-23"
+    },
+    "export_ports": [
+      "Alexandria",
+      "Dekheila",
+      "Damietta",
+      "Port Said",
+      "Suez",
+      "Adabiya"
+    ]
+  },
+  "factories": [
+    "Citrus Concentrates",
+    "Cloudy Concentrates",
+    "Tomato & Multi-Fruit Concentrates & Purées",
+    "IQF Fruits & Vegetables",
+    "Freeze-Dried"
+  ],
+  "lines": {
+    "production_and_packaging": 23,
+    "fully_automated_packaging": 4,
+    "dedicated_retail_packaging": 2
+  },
+  "capacity_t_per_year": {
+    "headline": "> 100,000",
+    "citrus_concentrates": 14000,
+    "orange_pulp": 5000,
+    "orange_oil": 500,
+    "nfc_orange": "up to 20,000",
+    "cloudy_concentrates": 5000,
+    "tomato": 25000,
+    "other_concentrates_purees": 10000,
+    "iqf_total": 70000,
+    "iqf_strawberries": 35000,
+    "iqf_other": 35000,
+    "freeze_dried": 1000
+  },
+  "raw_material_processing_t_per_year": {
+    "oranges": 140000,
+    "tomatoes": 180000,
+    "iqf": 47000,
+    "freeze_dry": 9000,
+    "_source": "company profile (film silent)"
+  },
+  "process_rates": {
+    "iqf_lines": 3,
+    "iqf_combined_t_per_h": 5,
+    "citrus_extractors": 12,
+    "citrus_t_per_h": 56,
+    "tomato_t_per_h": 60,
+    "tomato_t_per_day": 1420,
+    "cloudy_from_peel_t_per_h": 28,
+    "freeze_dry_vessels": 12
+  },
+  "cold_chain": {
+    "refrigerated_rooms": 8,
+    "pallets": 45000,
+    "tonnes": 50000,
+    "reefer_gates": 8,
+    "_source": "corporate film"
+  },
+  "utilities": {
+    "boilers": 5,
+    "steam_t_per_h": 60,
+    "fuel": "natural gas",
+    "cooling": "closed-loop (BAC towers)",
+    "refrigeration": "ammonia",
+    "solar_mw": "6 (planned)",
+    "quad_generation": "planned"
+  },
+  "_figures_authority": "MAFI corporate film (Sept 2026); gaps filled from company profile, brochure and corporate deck",
+  "investment_phase_1_usd": 180000000,
+  "jobs_direct_indirect": "about 7,000",
+  "export_share": "100%",
+  "products": 26,
+  "markets": [
+    "North America",
+    "Europe",
+    "Asia",
+    "GCC"
+  ],
+  "also_serving": [
+    "Africa",
+    "MENA"
+  ],
+  "customers": [
+    "F&B manufacturers",
+    "processors",
+    "retailers & private-label brands",
+    "HoReCa / foodservice",
+    "sustainability-focused brands"
+  ],
+  "sourcing": [
+    "own production",
+    "contract farming",
+    "external suppliers"
+  ],
+  "certifications_and_standards": [
+    "BRC Food",
+    "IFS Food",
+    "FSSC 22000",
+    "ISO 22000",
+    "ISO 9001",
+    "ISO 17025",
+    "HACCP",
+    "FDA (registered)",
+    "Halal",
+    "Kosher",
+    "NFSA Egypt",
+    "SFDA Saudi Arabia",
+    "SGF",
+    "SMETA",
+    "LEED Gold (USGBC)"
+  ],
+  "memberships": [
+    "IFU",
+    "WCO",
+    "AIJN"
+  ],
+  "contact": {
+    "hq": "U Venues, Second Floor, Units S201–S203, Fifth Settlement, New Cairo, Cairo, Egypt",
+    "factory": "F-4, No. 3 Block (11A–11B), El Sewedy Industrial Development Area, Industria Sadat, Sadat City, Menoufia, Egypt",
+    "email_general": "info@mafi-egypt.com",
+    "email_commercial": "commercial@mafi-egypt.com",
+    "web": "www.mafi-egypt.com",
+    "social": "@mafiegypt"
+  }
+}

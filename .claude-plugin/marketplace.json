@@ -1,0 +1,19 @@
+{
+  "name": "mafi",
+  "description": "MAFI's plugin marketplace: the MAFI 2026 brand pack and its IQF photo companion.",
+  "owner": {
+    "name": "MAFI Marketing & Communications"
+  },
+  "plugins": [
+    {
+      "name": "mafi-2026",
+      "source": "./mafi-2026",
+      "description": "MAFI 2026: the complete, conflict-free MAFI brand pack."
+    },
+    {
+      "name": "mafi-2026-iqf-photos",
+      "source": "./mafi-2026-iqf-photos",
+      "description": "MAFI 2026 – IQF Photos: the 12 IQF top-view product photos in 4K."
+    }
+  ]
+}

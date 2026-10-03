@@ -1,0 +1,790 @@
+{
+  "source": "MAFI Products Brochure (Sept 2026); capacities from MAFI corporate film (Sept 2026)",
+  "families": [
+    {
+      "id": "citrus",
+      "name": "Citrus Products",
+      "short": "Citrus",
+      "strapline": "Citrus Excellence for Every Application",
+      "descriptor": "Citrus Excellence for Every Application",
+      "colour": "#F3BC5A",
+      "tint": "#F4D089",
+      "capacity": [
+        [
+          "Citrus concentrates",
+          "14,000 t/yr"
+        ],
+        [
+          "Orange pulp",
+          "5,000 t/yr"
+        ],
+        [
+          "Orange oil",
+          "500 t/yr"
+        ],
+        [
+          "NFC orange",
+          "up to 20,000 t/yr"
+        ]
+      ],
+      "products": [
+        {
+          "id": "orange-juice-concentrate",
+          "name": "Orange Juice Concentrate",
+          "variant": "Frozen (FCOJ)",
+          "description": "Made from fully ripe, clean oranges, offering the pure, natural taste of fresh juice. No added sugars, sweeteners or preservatives.",
+          "specs": {
+            "Brix (20 °C)": "64–66",
+            "Ratio": "8 to +22"
+          },
+          "packaging": "Steel drums lined with PE bags with spout, packed directly in a multilayer aseptic bag; or steel drums lined with two PE bags",
+          "net_weight": "250–270 kg per drum",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Juices",
+            "Baking & Cooking",
+            "Sauces & Dressings",
+            "Frozen Treats",
+            "Desserts"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/orange-juice-concentrate.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/orange-juice-concentrate.jpg"
+        },
+        {
+          "id": "mandarin-juice-concentrate",
+          "name": "Mandarin Juice Concentrate",
+          "variant": "",
+          "description": "A pure, natural citrus boost that enhances the flavour of any dish or beverage.",
+          "specs": {
+            "Brix (20 °C)": "64–66"
+          },
+          "packaging": "Steel drums with 2 PE liners",
+          "net_weight": "250 kg per drum",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Juices",
+            "Cocktails",
+            "Bakery Products",
+            "Syrups",
+            "Ice-creams"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Nov",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/mandarin-juice-concentrate.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/mandarin-juice-concentrate.jpg"
+        },
+        {
+          "id": "lemon-juice-concentrate",
+          "name": "Lemon Juice Concentrate",
+          "variant": "",
+          "description": "Captures the vibrant taste and aroma of freshly squeezed lemons; advanced ultrafiltration delivers the pure essence of lemon in every drop.",
+          "specs": {
+            "Brix (20 °C)": "48–57 (57 max)"
+          },
+          "packaging": "Steel drums with 2 PE liners",
+          "net_weight": "250 kg per drum",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Soft Drinks",
+            "Drinks",
+            "Bakery Products",
+            "Sauces & Dressings",
+            "Syrups"
+          ],
+          "season": [
+            "Jan",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/lemon-juice-concentrate.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/lemon-juice-concentrate.jpg"
+        },
+        {
+          "id": "nfc-orange-juice",
+          "name": "NFC Orange Juice",
+          "variant": "Not From Concentrate",
+          "description": "Pure and natural, free from chemicals and preservatives; an advanced sterilisation process keeps the flavour just as nature intended.",
+          "specs": {
+            "Brix (20 °C)": "10.1–13.1"
+          },
+          "packaging": "Steel drums with aseptic filling",
+          "net_weight": "180 kg per drum (frozen) / 200 kg per drum (aseptic)",
+          "shelf_life": "18 months frozen (-18 °C) / 12 months aseptic (+5 °C)",
+          "ideal_for": [
+            "Smoothies & Cocktails",
+            "Salad Dressings",
+            "Desserts",
+            "Culinary Uses"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/nfc-orange-juice.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/nfc-orange-juice.jpg"
+        },
+        {
+          "id": "orange-cloudy-concentrate",
+          "name": "Orange Cloudy Concentrate",
+          "variant": "",
+          "description": "High-quality citrus concentrate from locally sourced oranges, preserving natural flavour and colour. Produced in a facility that fully utilises orange peel.",
+          "specs": {
+            "Brix": "50–65",
+            "Acidity": "2.0–4.5",
+            "Pulp": "2.0 max"
+          },
+          "packaging": "Double PE bag in drums",
+          "net_weight": "270 kg per drum",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Soft Drinks & Cocktails",
+            "Frozen Treats",
+            "Culinary Dishes"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/orange-cloudy-concentrate.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/orange-cloudy-concentrate.jpg"
+        },
+        {
+          "id": "orange-pulp-cells",
+          "name": "Orange Pulp Cells",
+          "variant": "",
+          "description": "Sourced from Egypt's finest oranges; adds vibrant flavour and fresh texture to beverages, dairy, baked goods and ice creams.",
+          "specs": {
+            "Brix (20 °C)": "10–13"
+          },
+          "packaging": "Steel drums with aseptic filling",
+          "net_weight": "200 kg per drum",
+          "shelf_life": "24 months (+5 °C)",
+          "ideal_for": [
+            "Smoothies",
+            "Baked Goods",
+            "Frozen Treats",
+            "Soups & Sauces"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/orange-pulp-cells.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/orange-pulp-cells.jpg"
+        },
+        {
+          "id": "citrus-aroma-essence",
+          "name": "Citrus Aroma Essence",
+          "variant": "Oil Phase / Water Phase",
+          "description": "Natural essences that preserve the full aromatic potential of citrus fruit.",
+          "specs": {},
+          "packaging": "Steel drums",
+          "net_weight": "Oil phase 180 kg / Water phase 210 kg",
+          "shelf_life": "Oil phase 12 months (+5 °C) / Water phase 9 months (+5 °C)",
+          "ideal_for": [
+            "Aromatherapy",
+            "Fragrances",
+            "Food Flavouring",
+            "Air Freshening"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Nov",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/citrus-aroma-essence.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/citrus-aroma-essence.jpg"
+        },
+        {
+          "id": "citrus-cold-pressed-oil",
+          "name": "Citrus Cold Pressed Oil",
+          "variant": "CPO",
+          "description": "Cold-pressed citrus oil for juices, food flavourings, fragrances and household products.",
+          "specs": {},
+          "packaging": "Steel drums",
+          "net_weight": "180 kg per drum",
+          "shelf_life": "18 months (+5 °C)",
+          "ideal_for": [
+            "Aromatherapy",
+            "Cleaning Products",
+            "Culinary Uses",
+            "Personal Care Products"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Nov",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/citrus/citrus-cold-pressed-oil.png",
+          "image_glass_bowl": "assets/products/glass-bowls/citrus/citrus-cold-pressed-oil.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tomato-multi-fruits",
+      "name": "Tomato & Multi-Fruits",
+      "short": "Tomato & Multi-Fruits",
+      "strapline": "Perfected by Nature.. Delivered by MAFI",
+      "descriptor": "Tomato & Multi-Fruit Solutions for Diverse Applications",
+      "colour": "#F37F64",
+      "tint": "#F7A692",
+      "capacity": [
+        [
+          "Tomato",
+          "25,000 t/yr"
+        ],
+        [
+          "Other concentrates",
+          "10,000 t/yr"
+        ]
+      ],
+      "products": [
+        {
+          "id": "tomato-concentrate",
+          "name": "Tomato Concentrate",
+          "variant": "Hot Break / Cold Break",
+          "description": "Top-quality tomato concentrates meeting international standards: pasteurisation, cooling and aseptic filling.",
+          "specs": {
+            "Hot Break": "Brix 28–30",
+            "Cold Break": "Brix 28–30 and 36–38"
+          },
+          "packaging": "Steel drums, aseptic filling",
+          "net_weight": "225–230 kg per drum",
+          "shelf_life": "24 months, ambient temperature in dry store",
+          "ideal_for": [
+            "Pasta Sauces",
+            "Pizza",
+            "Soups",
+            "Ketchup",
+            "Dips & Spreads"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/tomato-multi-fruits/tomato-concentrate.png",
+          "image_glass_bowl": "assets/products/glass-bowls/tomato-multi-fruits/tomato-concentrate.jpg"
+        },
+        {
+          "id": "strawberry-concentrate",
+          "name": "Strawberry Concentrate",
+          "variant": "Seedless",
+          "description": "Rich, authentic strawberry flavour, perfect for beverages and desserts.",
+          "specs": {
+            "Brix options (20 °C)": "14–16 / 16–18 / 20–22 / 26–28 / 28–30"
+          },
+          "packaging": "Steel drums with aseptic filling",
+          "net_weight": "200 kg per drum",
+          "shelf_life": "24 months (-18 °C)",
+          "ideal_for": [
+            "Juices",
+            "Cocktails",
+            "Smoothies",
+            "Sauces",
+            "Ice-creams",
+            "Sorbets",
+            "Baked Goods"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/tomato-multi-fruits/strawberry-concentrate.png",
+          "image_glass_bowl": "assets/products/glass-bowls/tomato-multi-fruits/strawberry-concentrate.jpg"
+        },
+        {
+          "id": "guava-puree",
+          "name": "Guava Purée",
+          "variant": "White guava",
+          "description": "Preserves the vibrant taste and nutrients of fresh guavas with a long shelf life; a tangy-sweet, refreshing flavour.",
+          "specs": {},
+          "packaging": "Steel drums with aseptic filling",
+          "net_weight": "210 kg per drum",
+          "shelf_life": "24 months (+5 °C)",
+          "ideal_for": [
+            "Ice-creams",
+            "Sorbets",
+            "Yogurts",
+            "Baby Foods",
+            "Sweet Spreads"
+          ],
+          "season": [
+            "Sep",
+            "Oct",
+            "Nov"
+          ],
+          "image_top_view": "assets/products/top-view/tomato-multi-fruits/guava-puree.png",
+          "image_glass_bowl": "assets/products/glass-bowls/tomato-multi-fruits/guava-puree.jpg"
+        },
+        {
+          "id": "strawberry-puree",
+          "name": "Strawberry Purée",
+          "variant": "",
+          "description": "Rich flavour and vibrant colour, crafted to deliver the true essence of fresh strawberries.",
+          "specs": {
+            "Brix (20 °C)": "6.3–10"
+          },
+          "packaging": "Steel drums with aseptic filling",
+          "net_weight": "190 kg per drum",
+          "shelf_life": "24 months (-18 °C)",
+          "ideal_for": [
+            "Cocktails",
+            "Smoothies",
+            "Sauces & Toppings",
+            "Desserts",
+            "Frozen Treats"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/tomato-multi-fruits/strawberry-puree.png",
+          "image_glass_bowl": "assets/products/glass-bowls/tomato-multi-fruits/strawberry-puree.jpg"
+        },
+        {
+          "id": "mango-puree",
+          "name": "Mango Purée",
+          "variant": "",
+          "description": "Naturally rich and golden, from ripe mangoes processed to exclude skins, seeds and fibre. Clean-label: free from GMOs and artificial additives.",
+          "specs": {
+            "Brix": "16.15 (14.1–18.2)"
+          },
+          "packaging": "Steel drums with PE inliner (aseptically filled)",
+          "net_weight": "200 kg per drum",
+          "shelf_life": "24 months (+5 °C)",
+          "ideal_for": [
+            "Beverages",
+            "Desserts",
+            "Frozen Treats",
+            "Bakery & Dairy Products"
+          ],
+          "season": [
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct"
+          ],
+          "image_top_view": "assets/products/top-view/tomato-multi-fruits/mango-puree.png",
+          "image_glass_bowl": "assets/products/glass-bowls/tomato-multi-fruits/mango-puree.jpg"
+        }
+      ]
+    },
+    {
+      "id": "iqf",
+      "name": "Frozen Fruits & Vegetables (IQF)",
+      "short": "IQF",
+      "strapline": "Naturally Fresh.. Conveniently Frozen",
+      "descriptor": "Premium IQF Fruits & Vegetables for Peak Freshness",
+      "colour": "#58B36A",
+      "tint": "#BCE0C3",
+      "capacity": [
+        [
+          "IQF total",
+          "70,000 t/yr"
+        ],
+        [
+          "of which strawberries",
+          "35,000 t/yr"
+        ],
+        [
+          "of which other fruits & vegetables",
+          "35,000 t/yr"
+        ]
+      ],
+      "products": [
+        {
+          "id": "iqf-strawberry",
+          "name": "IQF Strawberry",
+          "variant": "Whole / Sliced / Diced / Calibrated / Un-calibrated",
+          "description": "Harvested at peak ripeness and quickly frozen to lock in freshness, natural sweetness and nutritional value.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene liner",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Desserts",
+            "Smoothies",
+            "Cocktails & Mocktails"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-strawberry.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-strawberry.jpg"
+        },
+        {
+          "id": "iqf-mango",
+          "name": "IQF Mango",
+          "variant": "Sliced / Diced / Chunks",
+          "description": "Fragrance, vibrant colour and tropical sweetness preserved at their peak.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene liner",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Smoothies",
+            "Desserts",
+            "Sauces",
+            "Yogurts",
+            "Tropical Fruit Blends"
+          ],
+          "season": [
+            "Aug",
+            "Sep",
+            "Oct"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-mango.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-mango.jpg"
+        },
+        {
+          "id": "iqf-pomegranate",
+          "name": "IQF Pomegranate",
+          "variant": "Kernels (arils)",
+          "description": "From fully matured red pomegranates, processed under strict hygienic conditions to keep their juiciness, colour and tangy-sweet flavour.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene bags",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Smoothies",
+            "Desserts",
+            "Fruit Mixes",
+            "Gourmet Toppings"
+          ],
+          "season": [
+            "Sep",
+            "Oct",
+            "Nov"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-pomegranate.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-pomegranate.jpg"
+        },
+        {
+          "id": "iqf-sweet-potato",
+          "name": "IQF Sweet Potato",
+          "variant": "Diced / Sliced",
+          "description": "Clean, sound roots, washed, peeled and cut. Free from additives or preservatives.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene liner",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Meals",
+            "Soups",
+            "Stews",
+            "Plant-Based Dishes"
+          ],
+          "season": [
+            "Aug",
+            "Oct",
+            "Nov"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-sweet-potato.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-sweet-potato.jpg"
+        },
+        {
+          "id": "iqf-carrots",
+          "name": "IQF Carrots",
+          "variant": "Sliced / Diced (10 x 10 mm)",
+          "description": "Hand-selected roots, washed, peeled, trimmed, diced into uniform cubes and blanched before freezing.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene bags",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Ready Meals",
+            "Soups",
+            "Stews",
+            "Vegetable Mixes"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-carrots.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-carrots.jpg"
+        },
+        {
+          "id": "iqf-cauliflower",
+          "name": "IQF Cauliflower",
+          "variant": "Florets",
+          "description": "Designed for even cooking with minimal waste; freezing preserves freshness and integrity.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene liner",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Side Dishes",
+            "Soups",
+            "Stews",
+            "Casseroles",
+            "Stir-Fries"
+          ],
+          "season": [
+            "Nov",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-cauliflower.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-cauliflower.jpg"
+        },
+        {
+          "id": "iqf-sweet-corn",
+          "name": "IQF Sweet Corn",
+          "variant": "Kernels (golden or white varieties)",
+          "description": "Husked, silked, sorted, trimmed, washed and blanched, then quick-frozen at peak.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene liner",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Soups & Stews",
+            "Salads",
+            "Cold Pasta",
+            "Mixed Vegetable Blends"
+          ],
+          "season": [
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-sweet-corn.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-sweet-corn.jpg"
+        },
+        {
+          "id": "iqf-corn-on-the-cob",
+          "name": "IQF Corn-on-the-Cob",
+          "variant": "Trimmed Whole / Cut Cob",
+          "description": "From fully matured sweet corn, cleaned, sorted, washed and blanched before rapid freezing.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene bags",
+          "net_weight": "Trimmed whole: 3 cobs per bag x 18 bags per carton. Cut cob: 4 pieces per bag x 16 bags per carton",
+          "shelf_life": "18 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Side Dishes",
+            "Grilling & Roasting",
+            "Ready Meals",
+            "Foodservice & Catering"
+          ],
+          "season": [
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-corn-on-the-cob.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-corn-on-the-cob.jpg"
+        },
+        {
+          "id": "iqf-green-beans",
+          "name": "IQF Green Beans",
+          "variant": "Cut / Whole",
+          "description": "Harvested, quality-checked, cleaned, cut, super-blanched and frozen.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene bags",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Side Dishes",
+            "Salads",
+            "Casseroles",
+            "Vegetable Platters",
+            "Stir-Fries"
+          ],
+          "season": [
+            "Sep",
+            "Oct",
+            "Nov"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-green-beans.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-green-beans.jpg"
+        },
+        {
+          "id": "iqf-green-peas",
+          "name": "IQF Green Peas",
+          "variant": "Whole peas",
+          "description": "Selected, sorted, washed, blanched and individually quick frozen to keep their vibrant green colour and fresh taste.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene liner",
+          "net_weight": "400 g / 10 kg",
+          "shelf_life": "18 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Ready Meals",
+            "Soups & Stews",
+            "Side Dishes",
+            "Salads"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-green-peas.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-green-peas.jpg"
+        },
+        {
+          "id": "iqf-broccoli",
+          "name": "IQF Broccoli",
+          "variant": "Florets",
+          "description": "Rapid freezing preserves natural flavour, colour and vitamin C; free-flowing, with traceability and various cut sizes.",
+          "specs": {},
+          "packaging": "Double-wall corrugated cartons with polyethylene bags",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Side Dishes",
+            "Soups & Stews",
+            "Casseroles",
+            "Stir-Fries",
+            "Ready Meals",
+            "Pizza"
+          ],
+          "season": [
+            "Nov",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-broccoli.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-broccoli.jpg"
+        },
+        {
+          "id": "iqf-artichoke",
+          "name": "IQF Artichoke",
+          "variant": "Bottoms / Halves / Quarters / Hearts",
+          "description": "From the finest, tender parts of closed blossoms, free from filaments; sorted by size for uniformity.",
+          "specs": {},
+          "packaging": "Corrugated cartons with polyethylene liner",
+          "net_weight": "1 x 10 kg / 4 x 2.5 kg / 10 x 1 kg / 20 x 400 g",
+          "shelf_life": "24 months, frozen (-18 °C)",
+          "ideal_for": [
+            "Salads",
+            "Pasta Dishes",
+            "Pizza Toppings",
+            "Dips & Spreads",
+            "Casseroles"
+          ],
+          "season": [
+            "Mar",
+            "Apr",
+            "May"
+          ],
+          "image_top_view": "assets/products/top-view/iqf/iqf-artichoke.png",
+          "image_glass_bowl": "assets/products/glass-bowls/iqf/iqf-artichoke.jpg"
+        }
+      ]
+    },
+    {
+      "id": "freeze-dry",
+      "name": "Freeze Dry",
+      "short": "Freeze Dry",
+      "strapline": "Purely Preserved.. Perfectly Delicious",
+      "descriptor": "Flavourful Freeze-Dried Strawberries for Diverse Applications",
+      "colour": "#D62B2B",
+      "tint": "#EFB4B4",
+      "capacity": [
+        [
+          "Freeze-dried ingredients",
+          "1,000 t/yr"
+        ]
+      ],
+      "products": [
+        {
+          "id": "freeze-dried-strawberry",
+          "name": "Freeze-Dried Strawberry",
+          "variant": "Whole / Sliced / Diced / Powder",
+          "description": "Advanced freeze-drying preserves natural purity, flavour, colour and nutrition. Non-GMO; free from preservatives, colourings and flavourings. Lightweight and shelf-stable.",
+          "specs": {},
+          "packaging": "Inner: PE bag. Outer: double corrugated paper box",
+          "net_weight": "Retail: stand-up pouch 30 g & 50 g. Bulk: carton 1 kg & 1.5 kg",
+          "shelf_life": "5 years in cool, dry storage (max 20 °C, max 65% RH) in original sealed packaging",
+          "ideal_for": [
+            "Smoothies & Shakes",
+            "Cereal Toppings",
+            "Baked Goods",
+            "Desserts",
+            "Snacks",
+            "Yogurt"
+          ],
+          "season": [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec"
+          ],
+          "image_top_view": "assets/products/top-view/freeze-dry/freeze-dried-strawberry_whole.png",
+          "image_glass_bowl": "assets/products/glass-bowls/freeze-dry/freeze-dried-strawberry_whole.jpg"
+        }
+      ]
+    }
+  ]
+}

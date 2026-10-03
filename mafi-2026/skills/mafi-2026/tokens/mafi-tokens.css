@@ -1,0 +1,48 @@
+/* MAFI design tokens: starting points, not a strict component spec.
+   Fixed: logo files, core colours, family colours, Alverata + Avenir Next, the leaf & sprout.
+   Everything else is a default you may adapt. See 04_Visual_Identity.md. */
+@import url("https://fonts.googleapis.com/css2?family=Faustina:ital,wght@0,300..800;1,300..800&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Noto+Kufi+Arabic:wght@300..800&family=Caveat:wght@400..700&display=swap");
+:root{
+  /* colour hierarchy */
+  --color-background:#FFFFFF;   /* white: the default ground */
+  --color-primary:#009C49;      /* MAFI Green: leads (headlines, leaf, highlights, buttons, floods) */
+  --color-secondary:#045976;    /* MAFI Blue: supports (subheads, info, data, rules) */
+  --color-accent:#000000;       /* Black: body text, specs, detail */
+
+  /* the whole brand palette: no other brand colours */
+  --mafi-green:#009C49; --mafi-blue:#045976; --mafi-black:#000000; --mafi-white:#FFFFFF;
+  --mafi-gradient:linear-gradient(90deg,#009C49 0%,#045976 100%);
+  --mafi-gradient-vertical:linear-gradient(180deg,#009C49 0%,#045976 100%);
+
+  /* product-family tags (Products Brochure 2026): NOT brand colours; tag product families only */
+  --citrus:#F3BC5A;     --citrus-tint:#F4D089;
+  --tomato:#F37F64;     --tomato-tint:#F7A692;
+  --iqf:#58B36A;        --iqf-tint:#BCE0C3;
+  --freeze-dry:#D62B2B; --freeze-dry-tint:#EFB4B4;
+
+  /* green flood (2026 exhibition look) */
+  --flood-emerald:#009C49; --flood-deep:#0C6C3C; --flood-forest:#0C3C24; --flood-night:#071A12;
+  --green-flood:radial-gradient(120% 90% at 50% 20%,#0C6C3C 0%,#0C3C24 55%,#071A12 100%);
+
+  /* soft tints (panels on white only) & text roles */
+  --tint-green-10:#E6F5ED; --tint-blue-10:#E6EEF1; --rule:#E0E0E0;
+  --text-heading:var(--color-primary); --text-heading-alt:var(--color-secondary);
+  --text-subhead:var(--color-secondary); --text-body:var(--color-accent);
+  --text-muted:#595959; /* black at 65% */ --text-on-dark:#FFFFFF;
+  --action:#009C49; --action-hover:#00863F; --action-pressed:#007235;
+
+  /* type (licensed first, free fallback second) */
+  --font-display:"Alverata","Alverata W07 PE","Faustina",Georgia,serif;
+  --font-text:"Avenir Next","Avenir","Nunito Sans",system-ui,sans-serif;
+  --font-arabic:"GE SS Two","Noto Kufi Arabic","Cairo",sans-serif;
+  --font-script:"Caveat",cursive;
+  --tracking-display:-0.015em; --tracking-label:0.08em;
+
+  /* shape & depth (defaults) */
+  --radius-sm:6px; --radius-md:10px; --radius-lg:14px; --radius-xl:24px; --radius-pill:999px;
+  --shadow-card:0 6px 18px rgba(4,89,118,.09); --shadow-lift:0 14px 38px rgba(4,89,118,.11);
+  --shadow-product:0 24px 44px -18px rgba(26,29,30,.28);
+  --scrim-bottom:linear-gradient(180deg,rgba(0,0,0,0) 40%,rgba(0,0,0,.5) 100%);
+  --scrim-green:linear-gradient(180deg,rgba(7,26,18,0) 30%,rgba(7,26,18,.8) 100%);
+  --ease:cubic-bezier(.22,.61,.36,1);
+}
